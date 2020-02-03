@@ -1,10 +1,10 @@
-# chair-rental-management-system
+### chair-rental-management-system
 A complete end to end (customer to admin) rental management system with online payment gateway
 
-#Installation 
+### Installation 
 
 
-##Rental Service Software installation process
+### Rental Service Software installation process
 
 This software is based on PHP and MySQL technologies and some client side languages like HTML, CSS and JavaScript (JQuery). This application was built with Codeigniter framrwork in other to maintain a  well structured program with programming architecture like MVC (Model View Controller).
 
